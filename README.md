@@ -1,6 +1,4 @@
 # Welcome to my GitHub profile
-🔭 I’m currently working on [EPS Sanitas Mobile APP](https://play.google.com/store/apps/details?id=colsanitas.foonkiemonkey.com.co.eps&hl=es_419) <br>
-🌱 I’m currently learning Kotlin Fundamentals on [Platzi](https://platzi.com/cursos/kotlin/) <br>
 
 
 <!--
